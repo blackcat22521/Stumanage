@@ -1,0 +1,47 @@
+[
+  {
+    "ID": 1,
+    "Name": "Nguyen Van A1",
+    "Class": "Class 4A"
+  },
+  {
+    "ID": 2,
+    "Name": "Tran Thi B1",
+    "Class": "Class 4A"
+  },
+  {
+    "ID": 3,
+    "Name": "Le Van C1",
+    "Class": "Class 4A"
+  },
+  {
+    "ID": 4,
+    "Name": "Nguyen Van A2",
+    "Class": "Class 2A"
+  },
+  {
+    "ID": 5,
+    "Name": "Tran Thi B2",
+    "Class": "Class 2A"
+  },
+  {
+    "ID": 6,
+    "Name": "Le Van C2",
+    "Class": "Class 2A"
+  },
+  {
+    "ID": 7,
+    "Name": "Nguyen Van A3",
+    "Class": "Class 3A"
+  },
+  {
+    "ID": 8,
+    "Name": "Tran Thi B3",
+    "Class": "Class 3A"
+  },
+  {
+    "ID": 9,
+    "Name": "Le Van C3",
+    "Class": "Class 3A"
+  }
+]
